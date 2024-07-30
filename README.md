@@ -87,7 +87,7 @@ Teams get down to business by brainstorming, developing business plans, and crea
 ### Market Validation 📊
 Teams are encouraged to go out and validate their ideas by talking to potential customers.
 
-**5:00PM - Register to Pitch your project on Sunday**: [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSfp7bkvJTqBlK9Il6zBPZI5nIEsyhL1MYyRf85aPF6WmkUfQQ/viewform)
+## 5:00PM - Register to Pitch your project on Sunday: https://forms.gle/3nWXjbZznq9tpgWG9
 
 ## 3. Sunday:
 
