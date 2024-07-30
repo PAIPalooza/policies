@@ -51,7 +51,8 @@ For teams that have performed exceptionally well but did not place in the top th
 - **10:00 AM - 12:00 PM** - Workshops and Speaker Sessions (Topics relevant to AI, entrepreneurship, and technology; featuring Gold Sponsors and Industry Experts)
 - **10:00 AM** - FounderWay.AI introduction and demo
 - **12:00 PM** - Lunch Break
-- **1:00 - 5:00 PM** - Coding Continues: Teams Work on Projects, Mentor Rounds
+- **1:00 - 2:00 PM** - Quarrio Lightning Talk - Deterministic AI Systems
+- **2:00 - 5:00 PM** -Coding Continues: Teams Work on Projects, Mentor Rounds
 - **5:00 PM** - Mid-Hack Check-In: Optional Project Updates, Refreshment Break
 - **6:00 PM** - Dinner Served
 - **7:00 PM - Midnight** - Evening Coding Session: Focus Time, Mentors Available for Scheduled Consultations
