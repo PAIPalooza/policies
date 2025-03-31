@@ -1,133 +1,156 @@
 # 🗺️ 2025 PAI Palooza Hackathon Tour – Official Schedule
 
-Welcome to the **PAI Palooza Hackathon Series**, a national AI tour powered by **Musa Capital** in collaboration with **Microsoft**, **SignalFire**, and top AI venture partners. This is not just a hackathon — it’s an innovation engine, touring the U.S. to bring together AI founders, developers, designers, and vibe coders for immersive, startup-launching weekends.
+Welcome to the **PAI Palooza Hackathon Series**, a national AI innovation tour powered by **Musa Capital**, in collaboration with **Microsoft**, **SignalFire**, and leaders in AI venture building.
+
+We're bringing together developers, founders, designers, vibe coders, and AI-curious builders across the U.S. to prototype, launch, and accelerate AI-native startups.
+
+🌐 Main Site: [www.paipalooza.ai](http://www.paipalooza.ai)  
+🎟️ Tickets + Registration: [https://lu.ma/paipalooza](https://lu.ma/paipalooza)
 
 ---
 
-## ✅ Bay Area Kickoff – SignalFire Presents: ⚡ One Day Vibe Coding Hackathon
-**📍 Location**: SignalFire HQ, 501 2nd St Suite 100, San Francisco, CA  
-**📅 Date**: April 18, 2025  
-**⏰ Time**: 12:00 PM – 8:00 PM  
-**🎤 Format**: 1-Hour Live Workshop + 4-Hour Hack Sprint + Demos + VC Mixer
+## ✅ Bay Area Kickoff – ⚡ One Day Vibe Coding Hackathon  
+**Presented by SignalFire**  
+📍 **SignalFire HQ**, 501 2nd St Suite 100, San Francisco, CA  
+📅 **April 18, 2025**  
+⏰ **12:00 PM – 8:00 PM**  
+🎟️ RSVP: [https://lu.ma/paipalooza](https://lu.ma/paipalooza)
 
 ---
 
-### 🔥 About the Kickoff Hackathon
+### 🔥 Build with AI. Code by Vibes.
 
-Are you a non-technical founder ready to break through technical barriers? Or a dev team using AI to 10x your velocity?
+Are you a non-technical founder looking to break through technical blockers? Or a developer ready to ship 10x faster with AI?
 
-Join us for a **5-hour high-intensity AI build sprint** powered by the **Semantic Seed Coding Standard (SSCS)** — a TDD/BDD-based prompt engineering system we’ve used to boost code output by 40–60%.
+This **5-hour high-intensity AI hack sprint** is powered by the **Semantic Seed Coding Standard (SSCS)** — a TDD/BDD-based AI prompting framework. Teams will go from idea to deployable MVP with the help of GPT-4, Claude, and expert mentors.
 
-### 💡 What’s Vibe Coding?
-
-Vibe Coding is a mindset. It’s pairing with your AI like it’s your co-founder, not just your assistant. You’ll learn how to:
-
-- 🔧 Structure ideas into tested, production-ready code  
-- 🤖 Use GPT-4 or Claude with real-time prompting  
-- 🚀 Build MVPs using SSCS and AI-assisted workflows  
-- 🎯 Ship in hours — not weeks
+#### 💡 What You’ll Do:
+- Attend a **1-hour Vibe Coding Workshop**
+- Build a working MVP in just 4 hours with your AI pair
+- Use LLMs like co-founders, not tools
+- Collaborate IRL with technical + non-technical teams
+- Pitch live and win powerful AI tools + startup support
 
 ---
 
-### 🏆 Prizes
+### 🏆 Prizes:
+| 🥇 1st Place | Digits NVIDIA Supercomputer |
+|-------------|------------------------------|
+| 🥈 2nd Place | Mac Mini (M4 Chip)          |
+| 🥉 3rd Place | Raspberry Pi AI Dev Board   |
 
-| Place       | Prize                                |
-|-------------|---------------------------------------|
-| 🥇 1st       | Digits NVIDIA Supercomputer           |
-| 🥈 2nd       | Mac Mini (M4 Chip)                    |
-| 🥉 3rd       | Raspberry Pi AI Dev Board             |
-
-All winners receive **VC Office Hours** with SignalFire, Musa Capital, and special guests.
+All winners also get **VC office hours** with SignalFire, Musa Capital, and our investor partners.
 
 ---
 
-### 🧠 Get Ready to Build
-
-#### Suggested Gear Checklist:
-- 💻 **MacBook with M1/M2/M3 chip** or newer — or a high-performance **Windows laptop with dedicated GPU (RTX 2060+ or equivalent)**
-- 🖥️ External monitor (optional, but great for productivity)
+### 🧠 What to Bring:
+- 💻 **MacBook (M1/M2/M3)** or a **Windows laptop with dedicated GPU (RTX 2060+ or equivalent)**
+- 🖥️ Optional monitor for dual-screen coding
 - 🔌 Surge protector / power strip
-- 🔌 HDMI or USB-C adapter, dongles, charging cables
-- 📝 Sketchpad / whiteboard for rapid idea mapping
-- 🎧 Noise-canceling headphones
-- 🔋 Portable charger
-- 💾 USB stick or external drive (for backup or sharing)
+- 📝 Sketchpad or whiteboard
+- 🎧 Headphones
+- 🔋 Chargers, adapters, dongles
+- 💾 USB/external drive (optional)
 
-#### Who Should Come?
-- AI Developers and Vibe Coders  
-- Technical & Non-Technical Founders  
-- UX Designers, Product Builders  
-- DevOps & Cloud Engineers  
-- Anyone ready to build something real — with AI at the core
+No AI or coding experience required — just show up ready to build.
 
 ---
 
-### 🧑‍🤝‍🧑 Team Up Early
-
-Want to form a team ahead of time?
-
-- 🤝 Connect on **Discord**: [Join Our Community](https://discord.gg/tAC7EZ3JKf)
-- 💬 Use `#find-a-team` or `#pitch-your-idea` channels
-- 🎓 Drop into a **Free Workshop** on Tuesdays or Thursdays:
-  - *Tues @ 12PM PT*: Lunch & Learn – Vibe Coding w/ Azure OpenAI  
-  - *Thurs @ 12PM PT*: AI App Dev – Integrating OpenAI into Your Stack  
-
-🎯 Ready to train up? Join our **8-Hour Expert Training Camp** ($500) and go from zero to shipping like a junior dev in a day.
+### 🧑‍🤝‍🧑 Form a Team Early:
+- Join our Discord to connect with other builders: [https://discord.gg/tAC7EZ3JKf](https://discord.gg/tAC7EZ3JKf)  
+- Use channels like `#find-a-team`, `#pitch-your-idea`  
+- Want to prep? Join a free **1-hour workshop** or register for our **full-day Vibe Coding Camp**
 
 ---
 
-## 🎉 Tour Stops
+## 💻 Weekly Vibe Coding Classes
 
-### 🚦 Los Angeles – Presented by Microsoft
-**📍** Microsoft Office, Los Angeles, CA  
-**📅** April 26, 2025  
-**🎤** Azure demos, startup pitches, AI mixer
+### 🎓 Try the Free Class First:
+- **Tuesdays @ 12PM PT**: *Lunch & Learn – Vibe Coding with Azure OpenAI*  
+- **Thursdays @ 12PM PT**: *Build an AI App with OpenAI*
 
----
-
-### 🌵 Arizona – Presented by Microsoft  
-**📍** 60 E Rio Salado Pkwy #1200, Tempe, AZ  
-**📅** May 2, 2025  
-**🎤** Vibe Coding challenges, design sprints, local mentors
+Then level up with the **8-Hour Full-Day Camp** for $499:  
+🎟️ Register: [https://lu.ma/paipalooza](https://lu.ma/paipalooza)
 
 ---
 
-### 🏙️ Cincinnati – Presented by Microsoft  
-**📍** 4445 Lake Forest Dr #100, Blue Ash, OH  
-**📅** May 30, 2025  
-**🎤** Midwest AI builders, university collabs, ops-focused prompts
+### 🧠 About the Vibe Coding Camp ($499 Full-Day)
+
+**Date**: April 21, 2025  
+**Time**: 9:00 AM – 5:00 PM PDT (Virtual & IRL options)  
+**Audience**: Non-technical founders, AI devs, product teams, designers
+
+#### 💡 You’ll Learn:
+- Vibe Coding + SSCS: How to build real code via LLMs
+- Tools like GPT-4, Claude, Azure OpenAI, Copilot, Cody, Cursor
+- Test-Driven (TDD) and Behavior-Driven Development (BDD) prompting
+- Hands-on pairing with AI IDEs and API integrations
+- Building production-grade applications even as a non-coder
+
+#### 💼 Tracks Include:
+- AI Native Developer  
+- Frontend / Backend  
+- DevOps Engineer  
+- Graphic / UX Designer  
+- Founder / No-Code Builder
+
+🎟️ All tickets: **$499**  
+🌐 More info & registration: [https://lu.ma/paipalooza](https://lu.ma/paipalooza)
 
 ---
 
-### 🗽 New York City – Presented by Microsoft  
-**📍** 11 Times Square, NYC  
-**📅** June 6, 2025  
-**🎤** Finance + media AI tracks, East Coast startup showdown
+## 🎉 Upcoming Tour Stops
+
+### 📍 Los Angeles – Presented by Microsoft  
+📅 April 26, 2025  
+🏢 Microsoft Office LA  
+🎤 Azure demos, AI pitch night, investor mixer
 
 ---
 
-# 🌁 Weekly Practice: AI Lab SF
-
-📍 Locations: **300 4th St** + **847 Howard St**, San Francisco  
-📆 **April–May 2025**
-
-| Day         | Event                                              |
-|-------------|----------------------------------------------------|
-| Tues @ 12PM | *Lunch & Learn – Vibe Coding with Azure OpenAI*   |
-| Thurs @ 12PM| *Integrate Azure OpenAI into Your App*            |
-| M/W/F @ 9AM | *Virtual 8-Hour Vibe Coding Camps*                |
+### 📍 Arizona – Presented by Microsoft  
+📅 May 2, 2025  
+🏢 60 E Rio Salado Pkwy #1200, Tempe, AZ  
+🎤 Local devs + AI founders, workshop tracks, design jams
 
 ---
 
-# 📡 Stay Connected
-
-- **Discord**: [Join Our Community](https://discord.gg/tAC7EZ3JKf)  
-- **Devpost**: [Submit Projects](http://devpost.com/paipalooza)  
-- **Lu.ma**: [Full Schedule](https://lu.ma/2svuyacm)  
-- **WhatsApp**: [Group Chat](https://chat.whatsapp.com/JY7HNAQVlb3BzJDbcKO5kv)  
-- **Contact**: [help@paipalooza.com](mailto:help@paipalooza.com)
+### 📍 Cincinnati – Presented by Microsoft  
+📅 May 30, 2025  
+🏢 4445 Lake Forest Dr #100, Blue Ash, OH  
+🎤 Midwest builders, AI workflow challenges, VC feedback
 
 ---
 
-**You’ve got the vision — let AI help you build it.**  
-See you in San Francisco to kick it off. 🧠⚡💻
+### 📍 New York City – Presented by Microsoft  
+📅 June 6, 2025  
+🏢 11 Times Square, NYC  
+🎤 East Coast AI showcase, finance/media-focused AI builds
+
+---
+
+## 🌁 Ongoing Events: AI Lab SF
+
+📍 Locations: 300 4th St + 847 Howard St, San Francisco  
+📆 Weekly (April–May 2025)
+
+| Day         | Event                                             |
+|-------------|---------------------------------------------------|
+| Tues @ 12PM | *Vibe Coding w/ Azure OpenAI (Free Class)*       |
+| Thurs @ 12PM| *Build AI Apps with OpenAI (Free Class)*         |
+| M/W/F @ 9AM | *8-Hour Vibe Coding Camp (Paid - $499)*          |
+
+---
+
+## 📡 Stay Connected
+
+- 🌐 Website: [www.paipalooza.ai](http://www.paipalooza.ai)  
+- 🎟️ Tickets + Schedule: [https://lu.ma/paipalooza](https://lu.ma/paipalooza)  
+- 💬 Discord: [Join the Community](https://discord.gg/tAC7EZ3JKf)  
+- 📱 WhatsApp Group: [Join Chat](https://chat.whatsapp.com/JY7HNAQVlb3BzJDbcKO5kv)  
+- 📧 Contact: [help@paipalooza.com](mailto:help@paipalooza.com)  
+
+---
+
+**Build like a team of ten. Vibe with AI.**  
+See you on April 18 in San Francisco. 🧠⚡🚀
